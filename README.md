@@ -3,7 +3,7 @@
 **YBBB** (**Y**u**B**a**B**a **B**enchmark)
 
 ```bash
-curl -H "Cache-Control: no-cache" https://raw.githubusercontent.com/rice8y/ybbb/main/install.sh | bash
+uv tool install -e git+https://github.com/rice8y/ybbb.git
 ```
 
 ## Example
