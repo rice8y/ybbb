@@ -3,7 +3,7 @@
 **YBBB** (**Y**u**B**a**B**a **B**enchmark)
 
 ```bash
-uv tool install -e git+https://github.com/rice8y/ybbb.git
+uv tool install git+https://github.com/rice8y/ybbb.git
 ```
 
 ## Example
