@@ -2,5 +2,5 @@
 
 git clone https://github.com/rice8y/ybbb.git
 cd ybbb/bench
-uv tool install -e .
+uv tool install -e . --force
 cd ../../ && rm -rf ybbb
